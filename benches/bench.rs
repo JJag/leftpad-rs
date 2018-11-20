@@ -1,6 +1,6 @@
 #![feature(test)]
-extern crate test;
 extern crate leftpad;
+extern crate test;
 
 use leftpad::leftpad;
 use test::Bencher;

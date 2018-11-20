@@ -1,5 +1,3 @@
-extern crate leftpad;
-
 use std::env;
 
 fn main() {

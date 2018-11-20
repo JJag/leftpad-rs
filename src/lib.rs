@@ -16,7 +16,7 @@ mod tests {
 
     #[test]
     fn expanded() {
-        assert_eq!(leftpad("foo", 5), "  foo");
+        assert_eq!(leftpad("foo", 5), "   foo");
     }
 
     #[test]
